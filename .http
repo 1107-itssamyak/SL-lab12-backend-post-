@@ -1,0 +1,28 @@
+POST  http://localhost:3001/add-new-book
+Content-Type: application/json
+
+# {
+#     "bookName":"Trinty of purple nights",
+#     "nameofIssuer":"Ram",
+#     "dueDate":"10/12/2021"
+# }
+# {
+#     "bookName":"Drums of my Ear",
+#     "nameofIssuer":"Shyam",
+#     "dueDate":"11/12/2021"
+# }
+# {
+#     "bookName":"My School Life",
+#     "nameofIssuer":"Arjun",
+#     "dueDate":"14/12/2021"
+# }
+# {
+#     "bookName":"Hey Esabelle!",
+#     "nameofIssuer":"Sitaraman",
+#     "dueDate":"10/12/2021"
+# }
+{
+    "bookName":"Atomic Habits",
+    "nameofIssuer":"Sita",
+    "dueDate":"13/12/2021"
+}
